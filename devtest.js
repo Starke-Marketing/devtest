@@ -4,3 +4,9 @@
 // 2. Display an alert everytime a product is added to the cart.
 
 // 3. Prompt the user everytime an item is attempted to be removed from the cart.
+
+const valueFromBackend = null;
+
+const displayAlert = () => {};
+
+const promptUser = () => {};
