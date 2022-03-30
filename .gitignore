@@ -1,3 +1,11 @@
 .vscode
 .DS_Store
-.idea
+*.log
+*.swp
+.htaccess
+node_modules
+.sass-cache
+.buildpath
+.project
+.settings
+.idea/*
